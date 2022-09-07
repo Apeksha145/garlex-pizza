@@ -1,0 +1,66 @@
+body{font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #252525;
+    line-height: 25px;
+    position: relative;
+}
+.header .topbar {
+    background-color: #252525;
+    padding: 12px 0px;
+}
+.header .content {
+    float: left;
+}
+.header .content li {
+    display: inline-block;
+    color: #ccc;
+    margin-right: 10px;
+    font-weight: 500;
+}
+.header .content li i {
+    margin-right: 5px;
+	color:#C2A34C;
+}
+ul, ul li {
+    list-style: none;
+    padding:0 5px;
+    margin: 0;
+}
+.header .social {
+    float: right;
+}
+.header .social li {
+    display: inline-block;
+    color: #ccc;
+    margin-right: 10px;
+    font-weight: 500;
+}
+.header .logo {
+    float: left;
+}
+.footer {
+    background-color:#C2A34C;
+    color: white;
+}
+.footer-bottom {
+    background-color:#cfae51;
+    color: white;
+    padding: 10px 0px 0px 0px;
+    font-size: 14px;
+}
+.navbar-nav li > a:hover {
+    background-color:whitesmoke;
+}
+.navbar-nav .highl > .nav-link{background-color:#C2A34C;color:black;}
+.navbar-nav > li > a{
+    padding: 35px 20px;
+    margin: 0;
+    border-radius: 3px;
+    color: #00a4e4;
+    line-height: 24px;
+    display: inline-block;
+    text-transform: uppercase;
+    display: block;
+}
+.aboutfounder{/*background-color:#82a8de3d;*/padding:20px 0px 35px 0px;}
